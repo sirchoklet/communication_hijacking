@@ -1,2 +1,2 @@
 # communication_hijacking
-Image and appendix info for "Mapping Communication Hijacking in the Asia-Pacific" by Santacatarina, Eerhart, Brown, Nelson, &amp; Murphy (2026)
+Image and detailed appendix for "Mapping Communication Hijacking in the Asia-Pacific" by Santacatarina, Eerhart, Brown, Nelson, &amp; Murphy (2026)
